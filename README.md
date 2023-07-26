@@ -1,4 +1,5 @@
-![Notepad](https://media.tproger.ru/uploads/2021/07/telebot-cover-icon-1-original.png)
+
+![Watermark Bot](https://robokassa.com/upload/medialibrary/12e/12ec7d81223bf2b07bf44e4e36333677.jpg)
 # Telegram_bot_Add_Watermark
 This program is designed to create a Telegram bot that implements the ability to add watermarks to images. It caters to both PC and Android versions. Users press a button and select an image. Afterward, they choose the watermark they want to apply to the image. Upon selection, the Telegram bot sends the modified image with the watermark.
 
