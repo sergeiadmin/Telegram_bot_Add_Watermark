@@ -9,7 +9,7 @@ import time
 import signal
 import sys
 
-bot = telebot.TeleBot('6586120678:AAGZUQtr2zVw_fqigdhjfv0scrtkpcCD5oM')
+bot = telebot.TeleBot('Ваш токет !! бота!')
 
 # Настройка логирования
 logging.basicConfig(level=logging.ERROR)
